@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
   const helloText = document.getElementById('helloText');
   if (helloText) {
-    helloText.textContent = 'Hello World';
+    helloText.textContent = 'Hello World - Goa';
   }
 });
